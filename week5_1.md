@@ -27,3 +27,13 @@ https://en.wikipedia.org/wiki/Catalan_number
 ![1553648492623](assets\1553648492623.png)
 
 ![1553648861855](assets\1553648861855.png)
+
+### Segmented Least Squares
+
+![1553649132780](assets\1553649132780.png)
+
+【做预处理】
+
+![1553649501233](assets\1553649501233.png)
+
+![1553649935848](assets\1553649935848.png)
